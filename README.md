@@ -2,9 +2,9 @@
 
 This is a simple Python project that fulfills the requirements laid out in [TASK_INSTRUCTIONS.md](TASK_INSTRUCTIONS.md). It consists of a single script, `main.py`, and only uses four libraries:
 - The built-in `csv` library, used for writing to CSV
+- The built-in `sys` library, to read command-line arguments
 - `beautifulsoup4`, a commonly-used web scraping library
 - `requests`, to make HTTP requests
-- `sys`, to read command-line arguments
 
 ## Install Requirements
 
